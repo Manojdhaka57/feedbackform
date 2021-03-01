@@ -1,0 +1,26 @@
+
+body{
+    font-family: 'Pirata One', cursive;
+    text-align: center;
+    
+    
+    background-color: #011627;
+    border: 50px solid #2ec486;
+    color: white;
+    border-top: 0px;
+    margin: 0px;
+    padding: 20px;
+}
+p{
+    
+    padding-left: 20%;
+    padding-right: 20%;
+}
+form{
+    font-size: 1.5em;
+}
+button{
+    background-color: yellow;
+    background-origin: 20px;
+    border-radius: 30px;
+}
